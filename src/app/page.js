@@ -1,9 +1,9 @@
-import CustomModal from "@/components/CustomModal";
+import FlowbiteModal from "@/components/FlowbiteModal";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen items-center justify-center">
-      <CustomModal />
+    <main className="flex items-center justify-center min-h-screen">
+      <FlowbiteModal />
     </main>
   );
 }
