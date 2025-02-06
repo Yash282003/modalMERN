@@ -1,5 +1,5 @@
 "use client";
-import "flowbite";
+// import "flowbite";
 
 export default function FlowbiteModal() {
   return (
